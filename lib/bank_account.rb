@@ -7,4 +7,8 @@ class BankAccount
     self.balance = 1000
     self.status = "open"
   end
+
+  def deposit
+
+  end
 end
